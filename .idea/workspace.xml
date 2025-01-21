@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d0e3c5f-bcf4-485c-8bbb-605d0b02a141" name="Changes" comment="Express Install">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Tarot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routers/tarotRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
@@ -60,9 +63,16 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PhpStorm 2024.3.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Jaar2\Programming\Programmeren 06\tarot-express\routers" />
+      <recent name="E:\Jaar2\Programming\Programmeren 06\tarot-express" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,6 +91,8 @@
       <updated>1737361963147</updated>
       <workItem from="1737361964645" duration="132000" />
       <workItem from="1737362113336" duration="664000" />
+      <workItem from="1737362788964" duration="1191000" />
+      <workItem from="1737364000935" duration="19177000" />
     </task>
     <task id="LOCAL-00001" summary="Express Install">
       <option name="closed" value="true" />
@@ -90,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737362710556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Express Install">
+      <option name="closed" value="true" />
+      <created>1737363075119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737363075119</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
